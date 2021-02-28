@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QuadCopterRemote", "QuadCopterRemote\QuadCopterRemote.vcxproj", "{6FC7207A-21AC-41C0-AD5D-4A05E9B273D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|VisualGDB = Debug|VisualGDB
+		Release|VisualGDB = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FC7207A-21AC-41C0-AD5D-4A05E9B273D9}.Debug|VisualGDB.ActiveCfg = Debug|VisualGDB
+		{6FC7207A-21AC-41C0-AD5D-4A05E9B273D9}.Debug|VisualGDB.Build.0 = Debug|VisualGDB
+		{6FC7207A-21AC-41C0-AD5D-4A05E9B273D9}.Release|VisualGDB.ActiveCfg = Release|VisualGDB
+		{6FC7207A-21AC-41C0-AD5D-4A05E9B273D9}.Release|VisualGDB.Build.0 = Release|VisualGDB
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E1EFEC1-104B-475A-9F28-FAAEFDAEB62D}
+	EndGlobalSection
+EndGlobal
